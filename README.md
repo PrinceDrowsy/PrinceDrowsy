@@ -8,7 +8,7 @@ Ich heiße James-Michael, und ich bin ein Softwareentwickler. Es ist schön, Sie
 
 Jmenuji se James-Michael, a jsem softwarový inženýr. Rád vás poznávám!
 
-僕の名前わJames-Michael,
+私の名前は James-Michael で、ソフトウェア エンジニアです。
 
 - 🔭 I’m currently working on finishing school, along with several side projects that involve fan-made modifications to existing games I enjoy.
 - 🌱 I’m currently learning Java and Javascript.
