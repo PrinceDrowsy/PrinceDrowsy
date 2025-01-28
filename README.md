@@ -11,7 +11,7 @@ Jmenuji se James-Michael, a jsem softwarový inženýr. Rád vás poznávám!
 私の名前はJames-Michaelで、ソフトウェア エンジニアです。よろしくおねがいします!
 
 - 🔭 I’m currently working on finishing school, along with several side projects that involve fan-made modifications to existing games I enjoy.
-- 🌱 I’m currently learning Java and Javascript.
+- 🌱 I’m currently learning Java, Javascript, and REACT. I am experienced in Python, C#, HTML, and CSS.
 - 💬 As of this moment, I am studying five languages, those being French, German, Czech, Japanese, and American Sign Language. Feel free to correct me on any mistakes I make in my translations if you are a native speaker of any of these languages, I greatly appreciate feedback!
 
 <!--
