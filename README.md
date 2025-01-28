@@ -4,7 +4,7 @@ My name is James-Michael, and I'm a software engineer. It's nice to meet you!
 
 Je m'appelle James-Michael,
 
-Ich heiße James-Michael, und ich bin ein
+Ich heiße James-Michael, und ich bin ein Softwareentwickler. Es ist schön, Sie kennenzulernen!
 
 Jmenuji se James-Michael,
 
