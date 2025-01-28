@@ -1,4 +1,4 @@
-## Hello, Bonjour, Gutentag, Dobrý den, こんにちは👋
+## Hello, Bonjour, Guten Tag, Dobrý den, こんにちは👋
 
 My name is James-Michael, and I'm a software engineer. It's nice to meet you!
 Je m'appelle James-Michael,
