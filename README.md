@@ -1,9 +1,13 @@
 ## Hello, Bonjour, Guten Tag, Dobrý den, こんにちは👋
 
 My name is James-Michael, and I'm a software engineer. It's nice to meet you!
+
 Je m'appelle James-Michael,
+
 Ich heiße James-Michael,
+
 Jmenuji se James-Michael,
+
 僕の名前わJames-Michael,
 
 - 🔭 I’m currently working on finishing school, along with several side projects that involve fan-made modifications to existing games I enjoy.
