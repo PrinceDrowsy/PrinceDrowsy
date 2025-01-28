@@ -2,11 +2,11 @@
 
 My name is James-Michael, and I'm a software engineer. It's nice to meet you!
 
-Je m'appelle James-Michael,
+Je m'appelle James-Michael, et je fais du ingénieur-conseil en informatique. Enchanté!
 
 Ich heiße James-Michael, und ich bin ein Softwareentwickler. Es ist schön, Sie kennenzulernen!
 
-Jmenuji se James-Michael,
+Jmenuji se James-Michael, a jsem softwarový inženýr. Rád vás poznávám!
 
 僕の名前わJames-Michael,
 
